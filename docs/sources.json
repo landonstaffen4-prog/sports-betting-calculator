@@ -1,0 +1,281 @@
+[
+  {
+    "id": "RAS1",
+    "title": "RAS team and history",
+    "url": "https://www.raspicks.com/about",
+    "type": "primary/service disclosure",
+    "notes": "Team organisation and public grading practices; not a model disclosure.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "RAS2",
+    "title": "RAS member Michael Craig interview",
+    "url": "https://raspicks.substack.com/p/ras-pro-bettor-joins-vsins-a-numbers",
+    "type": "primary/interview transcript",
+    "notes": "Ratings ensemble plus offseason personnel research; Craig's method, not necessarily every RAS originator.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible transcript/excerpt only"
+  },
+  {
+    "id": "RAS3",
+    "title": "Five ways to assess line moves",
+    "url": "https://raspicks.substack.com/p/5-ways-to-try-tell-if-a-line-move",
+    "type": "primary/method article",
+    "notes": "Move origin, limit, pattern, news and timing; explicitly uncertain classification.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "RAS4",
+    "title": "RAS public results rendering",
+    "url": "https://www.raspicks.com/archive/nfl,cfb?startDate=20200701",
+    "type": "service-hosted records",
+    "notes": "Retrieved date-filter state did not match URL intent; pending placeholders excluded.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "RAS5",
+    "title": "RAS Betstamp link",
+    "url": "https://www.betstamp.com/app/u/RAS",
+    "type": "third-party tracker location",
+    "notes": "Ledger not extractable in this session; no independent audit claimed.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "HIT1",
+    "title": "What to Expect",
+    "url": "https://hitmansports.net/what-to-expect/",
+    "type": "primary/service disclosure",
+    "notes": "Release windows, market-specific liquidity and price availability.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "HIT2",
+    "title": "Hitman records",
+    "url": "https://hitmansports.net/records/",
+    "type": "primary/record claims",
+    "notes": "Separates props, sides/totals and futures; varying unit scales.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "HIT3",
+    "title": "Hitman public content links",
+    "url": "https://hitmansports.net/free-content/",
+    "type": "primary/identity links",
+    "notes": "Corroborates @Hitman428 and The Hammer association.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "HIT4",
+    "title": "Hitman on preseason and limits",
+    "url": "https://podscan.fm/podcasts/the-hammer-daily/episodes/youre-going-to-want-these-nfl-season-long-player-props-presented-by-fanduel",
+    "type": "first-person transcript excerpt on third-party host",
+    "notes": "7:05–9:27 excerpt: lineup anticipation/reaction, limits, exact-line dependence. Automated transcription may contain errors.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible transcript/excerpt only"
+  },
+  {
+    "id": "HIT5",
+    "title": "Hitman news discussion",
+    "url": "https://podscan.fm/podcasts/the-hammer-daily/episodes/nfl-week-2-ufc-331-presented-by-fanduel",
+    "type": "first-person transcript excerpt on third-party host",
+    "notes": "8:00–10:20: uncertain availability changes other receivers' prices. Speaker boundaries imperfect.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible transcript/excerpt only"
+  },
+  {
+    "id": "MON1",
+    "title": "Monahan market confidence",
+    "url": "https://oddsjam.com/betting-education/what-is-confidence-in-sports-betting",
+    "type": "primary/method article",
+    "notes": "Wide market comparison and market-specific benchmark quality.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "MON2",
+    "title": "Monahan tools and props",
+    "url": "https://oddsjam.com/betting-education/betting-education/player-prop-madness-tons-of-sharp-bets-that-im-on",
+    "type": "primary/historical examples",
+    "notes": "Odds screens, positive-EV tool and line differences.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "MON3",
+    "title": "Monahan early lines and models",
+    "url": "https://oddsjam.com/betting-education/the-best-strategies-for-making-money-sports-betting",
+    "type": "primary/method article",
+    "notes": "Market-based approach; promotional returns are not treated as guaranteed forecasts.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "CLE1",
+    "title": "Fourth-quarter expectation methodology",
+    "url": "https://clevanalytics.com/win-over-expected-methodology/",
+    "type": "primary/research disclosure",
+    "notes": "Walk-forward construction, regression signal and explicit assumed historical alternative odds.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "CLE2",
+    "title": "ClevTA matchup example",
+    "url": "https://clevanalytics.com/superbowl-2026-public/",
+    "type": "primary/public analysis",
+    "notes": "Opponent-adjusted efficiency, pressure, coverage, personnel and usage; no model coefficients disclosed.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "CLE3",
+    "title": "ClevTA track record",
+    "url": "https://clevanalytics.com/nfl-trackrecord/",
+    "type": "primary/record claims",
+    "notes": "Contest results and wagering returns are different products; linked tracker not audited.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "BOB1",
+    "title": "Model handicapping essay",
+    "url": "https://drbobsports.com/sports-betting-as-an-investment/2/",
+    "type": "primary/method article",
+    "notes": "Opponent adjustment and distinguishing explanatory statistics from predictive ones.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "BOB2",
+    "title": "Fundamental and situational essay",
+    "url": "https://drbobsports.com/sports-betting-as-an-investment/3/",
+    "type": "primary/method article",
+    "notes": "Matchup and situational overlays; not causal validation of every angle.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "BOB3",
+    "title": "College basketball model",
+    "url": "https://drbobsports.com/new-college-basketball-model/",
+    "type": "primary/model description and reported tests",
+    "notes": "Priors and player contributions; reported holdout periods; apparent table transcription inconsistency.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "BOB4",
+    "title": "Money management",
+    "url": "https://drbobsports.com/money-management-for-sports-betting/",
+    "type": "primary/method series introduction",
+    "notes": "Risk horizon, simultaneous positions and fractionalisation matter.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "HUGH1",
+    "title": "Hugh Taylor interview",
+    "url": "https://smartbettingclub.com/blog/the-sbc-interviews-hugh-taylor/",
+    "type": "primary/interview transcript",
+    "notes": "Historical process: replay notes, pace, draw/track context, independent pricing; interview dates to 2011.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible transcript/excerpt only"
+  },
+  {
+    "id": "HUGH2",
+    "title": "Hugh Taylor column and disclaimer",
+    "url": "https://www.attheraces.com/all-weather-championships/hugh-taylor",
+    "type": "primary/publisher column",
+    "notes": "Publication-time prices and lower realised returns after price cuts; current column accessed via alternate route.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "HUGH3",
+    "title": "Hugh Taylor FAQ",
+    "url": "https://www.attheraces.com/article/587968",
+    "type": "primary/FAQ",
+    "notes": "Advised-price returns differ from starting-price returns; avoid quoting truncated statistics as audited facts.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "API1",
+    "title": "The Odds API bookmaker list",
+    "url": "https://the-odds-api.com/sports-odds-data/bookmaker-apis.html",
+    "type": "official technical docs",
+    "notes": "Canadian region and Ontario-specific IDs; listed availability still requires API verification.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "API2",
+    "title": "The Odds API market coverage",
+    "url": "https://the-odds-api.com/sports-odds-data/betting-markets.html",
+    "type": "official technical docs",
+    "notes": "Props mostly US-book coverage; additional-market update cadence matters.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "API3",
+    "title": "The Odds API historical data",
+    "url": "https://the-odds-api.com/historical-odds-data/",
+    "type": "official technical docs",
+    "notes": "Paid historical snapshots; five-minute granularity cannot establish seconds-long execution.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "API4",
+    "title": "OpticOdds confirmation timestamps",
+    "url": "https://developer.opticodds.com/reference/get_sportsbooks-last-polled",
+    "type": "official technical docs",
+    "notes": "Last price change and last successful polling are distinct.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "API5",
+    "title": "OpticOdds streaming",
+    "url": "https://developer.opticodds.com/docs/odds-api-getting-started-guide",
+    "type": "official technical docs",
+    "notes": "Streaming events and connection resume support; not connected in this package.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "API6",
+    "title": "OpticOdds historical endpoint",
+    "url": "https://developer.opticodds.com/reference/get_fixtures-odds-historical",
+    "type": "official technical docs",
+    "notes": "Endpoint states a rolling two-month history; broader retention requires confirmation.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "API7",
+    "title": "OpticOdds supported books",
+    "url": "https://developer.opticodds.com/docs/sportsbooks",
+    "type": "official technical docs",
+    "notes": "Static list and active endpoint must be distinguished; names do not establish Ontario terms.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  },
+  {
+    "id": "MATH1",
+    "title": "OddsJam de-vig alternatives",
+    "url": "https://oddsjam.com/betting-education/betting-education/uncovering-true-outcome-probabilities",
+    "type": "primary/technical explanation",
+    "notes": "Proportional, additive, Shin and power methods; not personal Monahan settings.",
+    "accessed_at": "2026-10-24",
+    "access_scope": "accessible page; no linked private dataset audit"
+  }
+]

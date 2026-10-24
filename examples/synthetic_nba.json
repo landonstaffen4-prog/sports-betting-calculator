@@ -1,0 +1,60 @@
+{
+  "contract": {
+    "league": "NBA",
+    "event_id": "synthetic-event-not-a-real-game",
+    "market": "player_points",
+    "subject_id": "synthetic-player-not-a-real-athlete",
+    "line": "24.5",
+    "period": "full_game",
+    "rules_id": "synthetic-identical-rules",
+    "outcomes": ["over", "under"],
+    "start_at": "2026-10-24T23:00:00Z",
+    "has_push": false
+  },
+  "outcome": "over",
+  "candidate": {
+    "book": "SYNTHETIC Ontario Book",
+    "family": "synthetic_candidate_family",
+    "jurisdiction": "CA-ON",
+    "prices": {"over": 2.0, "under": 1.8},
+    "confirmed_at": "2026-10-24T18:00:00Z",
+    "received_at": "2026-10-24T18:00:01Z",
+    "mode": "replay"
+  },
+  "references": [
+    {
+      "book": "SYNTHETIC Reference A",
+      "family": "synthetic_ref_a",
+      "jurisdiction": "reference-only",
+      "prices": {"over": 1.72, "under": 2.15},
+      "confirmed_at": "2026-10-24T18:00:00Z",
+      "received_at": "2026-10-24T18:00:01Z",
+      "mode": "replay"
+    },
+    {
+      "book": "SYNTHETIC Reference B",
+      "family": "synthetic_ref_b",
+      "jurisdiction": "reference-only",
+      "prices": {"over": 1.75, "under": 2.1},
+      "confirmed_at": "2026-10-24T18:00:00Z",
+      "received_at": "2026-10-24T18:00:01Z",
+      "mode": "replay"
+    },
+    {
+      "book": "SYNTHETIC Reference C",
+      "family": "synthetic_ref_c",
+      "jurisdiction": "reference-only",
+      "prices": {"over": 1.7, "under": 2.2},
+      "confirmed_at": "2026-10-24T18:00:00Z",
+      "received_at": "2026-10-24T18:00:01Z",
+      "mode": "replay"
+    }
+  ],
+  "policy": {
+    "jurisdiction": "CA-ON",
+    "max_age_seconds": 60,
+    "min_reference_families": 3,
+    "min_ev": 0.02,
+    "max_probability_spread": 0.08
+  }
+}
