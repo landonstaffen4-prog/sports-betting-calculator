@@ -1,8 +1,16 @@
-# Sports Betting Calculator — research foundation
+# Sports Betting Calculator — Edge Lab
 
-This is the initial calculation engine and research specification for Landon's
-Ontario-focused betting calculator. It has no live odds subscription, trained
-performance model, deployed UI, or established profitable strategy.
+A private Ontario-focused odds research app, plus a standalone Python calculation engine. Manual odds entry and the journal require no subscription or key. Optional current odds use your own The Odds API key. No independent forecasting model or profitable strategy has been established.
+
+## Web app
+
+[Open Edge Lab](https://landon-edge-lab.tunedrhino16.chatgpt.site) (private; sign in with the owning account).
+
+Use **Value calculator** for actual offered odds or **Explore demo** for clearly invented sample prices. **Decision journal** saves records on this device; export backups to preserve them. **Data & limits** accepts a session-only data key for optional provider fetches. No paid products are required or purchased by the app.
+
+Source, run instructions and limitations: [web/README.md](web/README.md). Node 22+, no dependencies. From `web/`, run `npm run dev`; build before running backend tests with `npm run build && npm test`.
+
+The web engine uses a 90-second source-age default, a 6-point maximum method/reference spread and an optional live Pinnacle anchor. These are unvalidated engineering defaults, separate from the older Python engine defaults below.
 
 Read [the six-source research](docs/RESEARCH.md) and
 [the implementation specification](docs/SPECIFICATION.md) before adding feeds.
@@ -55,5 +63,5 @@ No bets are placed and no accounts or paid products are opened by this project.
 Standalone project, separate from the NBA 2K builder:
 https://github.com/landonstaffen4-prog/sports-betting-calculator
 
-Keep data keys server-side and out of Git. Public research notes contain no
+Keep data keys out of Git. The web app supports a runtime secret or a session-only key entered in its private form. Public research notes contain no
 private account data, complete copyrighted articles or paid selections.
